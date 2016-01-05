@@ -1,0 +1,44 @@
+{"frames": {
+
+"spinner1.png":
+{
+	"frame": {"x":2,"y":2,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
+},
+"spinner2.png":
+{
+	"frame": {"x":54,"y":2,"w":24,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":27},
+	"sourceSize": {"w":24,"h":27}
+},
+"spinner3.png":
+{
+	"frame": {"x":80,"y":2,"w":24,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":27},
+	"sourceSize": {"w":24,"h":27}
+},
+"spinner4.png":
+{
+	"frame": {"x":28,"y":2,"w":24,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":28},
+	"sourceSize": {"w":24,"h":28}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spinnerSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":106,"h":32},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cd053d05aa63ce585bbb7c8ebf6a487b:29d49b5e644c9b218c828d1cf2cc1063:b032c5bbd65541c206b2ee3d32a8c324$"
+}
+}

@@ -1,0 +1,20 @@
+{"frames": {
+
+"megaman.png":
+{
+	"frame": {"x":2,"y":2,"w":628,"h":523},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":628,"h":523},
+	"sourceSize": {"w":637,"h":533}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "megamanSprite.png",
+	"format": "RGBA8888",
+	"size": {"w":632,"h":527},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f49ce408e9d0bb6385cbb5b34fcdef3:526f42fb3835e4a527c023e46f690bb6:0f462b6477e7bec71e65b11ea0921d0f$"
+}
+}
