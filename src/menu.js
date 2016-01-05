@@ -13,6 +13,9 @@ megamanGame.MainMenu.prototype = {
         this.music = this.add.audio('titleMusic');
         //this.music.play();
 
+        //Logo above start button
+        this.logo = this.add.image(110,0,'megamanLogo');
+
         //Button to start the game
         this.startButton = this.add.button(this.world.centerX, this.world.centerY +100, 'startButton', this.startGame, this);
         this.startButton.anchor.setTo(0.5,0.5);

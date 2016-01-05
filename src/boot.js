@@ -19,6 +19,8 @@ megamanGame.Boot.prototype = {
 
         //Load background image for boot screen
         this.load.image('preloadBackground', 'assets/boot/background.jpg');
+        //Load image for menu screen
+        this.load.image('megamanLogo', 'assets/boot/megamanlogo.jpg');
         //Load background image for gameplay
         this.load.image('gameBackground', 'assets/desert_BG.png');
     },
