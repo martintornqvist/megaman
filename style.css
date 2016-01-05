@@ -11,4 +11,9 @@ canvas {
   display: block;
   margin: 10% auto; }
 
+p {
+  margin-top: -100px;
+  width: 100%;
+  text-align: center; }
+
 /*# sourceMappingURL=style.css.map */
