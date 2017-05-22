@@ -1,5 +1,6 @@
-# megaman
-Small Megaman X game made in Phaser.js
+# Megaman
+(Very) Small Megaman X game made in Phaser.js just for fun. 
+Use arrow keys for moving and space bar for shooting.
 
 # Demo
 www.mtornqvist.se/mmgame
@@ -12,4 +13,4 @@ www.mtornqvist.se/mmgame
   * Obstacles
   * Enemies
   * Game environment
-* Long time no see -> Rewrite everything!
+* Long time no see -> Rewrite everything, especially physics
